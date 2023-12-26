@@ -13,7 +13,7 @@ export const Home =() =>{
             <div className="text-center">
                 <h1 className="animated-text ">Welcome to My Portfolio</h1>
                 <NameReveal/>
-                <p className="animated-text ">Feel free to explore, an contact me!</p>
+                <p className="animated-text ">Feel free to explore, and to contact me!</p>
 
                                 <div className="social-icons">
                         <a href="https://www.linkedin.com/in/dvir-bublil-4862b41b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
